@@ -9,7 +9,8 @@ Interactive HTML Presentation Deck presented at **Crayon 2026** by **Adhi Baskor
 Slide presentasi interaktif responsif 16:9 (1920x1080) yang membahas strategi pemasaran digital praktis untuk UMKM lewat media sosial:
 1. **Practical Marketing & Branding Strategy** (Brand Identity, Positioning, Content Strategy 70/20/10, Funnel)
 2. **Business Reality & Experience** (Insight Industri, Studi Kasus UMKM, Common Mistakes)
-3. **Digital Platforms & Tools Solutions** (Instagram, TikTok, Google Maps, WhatsApp Business, Action Plan 30 Hari)
+3. **Digital Platforms & Tools Solutions** (Instagram, TikTok, Google Maps, WhatsApp Business, Action Plan 5 Langkah)
+4. **Light Workshop: Build Your Brand in One Postcard** (Praktik 10 Elemen: Brand Personality, Positioning, Moodboard, Color, Font, Ide Konten, Hook, Caption, CTA, Platform)
 
 ---
 
