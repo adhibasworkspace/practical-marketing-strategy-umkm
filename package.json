@@ -1,0 +1,21 @@
+{
+  "name": "practical-marketing-strategy-umkm",
+  "version": "1.0.0",
+  "description": "Interactive HTML slide presentation deck: Practical Marketing Strategy for UMKM Through Social Media (Crayon 2026) by Adhi Baskoro",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "slides",
+    "presentation",
+    "marketing",
+    "umkm",
+    "social-media",
+    "crayon-2026",
+    "digital-marketing"
+  ],
+  "author": "Adhi Baskoro (adhibasworkspace)",
+  "license": "MIT"
+}
